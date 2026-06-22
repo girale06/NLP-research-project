@@ -1,0 +1,17 @@
+architecture,domain,difficulty,mean_score,pass_rate,mean_runtime_seconds,mean_steps,mean_estimated_tokens
+Level 1: Single-Agent Baseline,cheminformatics,easy,1.0,1.0,2.1145450205003726,1.0,355.0
+Level 1: Single-Agent Baseline,cheminformatics,hard,0.9285714285714286,0.0,7.948059166001258,1.0,593.0
+Level 1: Single-Agent Baseline,materials,easy,1.0,1.0,5.657249479000711,1.0,321.0
+Level 1: Single-Agent Baseline,materials,hard,0.8181818181818182,0.0,20.9233930624996,1.0,537.0
+Level 2A: Planner + Executor,cheminformatics,easy,1.0,1.0,4.810654395999336,2.0,1076.0
+Level 2A: Planner + Executor,cheminformatics,hard,0.9285714285714286,0.0,9.827573874999871,2.0,1984.0
+Level 2A: Planner + Executor,materials,easy,1.0,1.0,13.026913750000858,2.0,2114.0
+Level 2A: Planner + Executor,materials,hard,0.9090909090909091,0.0,29.653614041500077,2.0,2122.0
+Level 2B: Solver + Critic,cheminformatics,easy,1.0,1.0,2.0895107914993787,2.0,566.0
+Level 2B: Solver + Critic,cheminformatics,hard,1.0,1.0,21.278630229499868,4.0,2949.0
+Level 2B: Solver + Critic,materials,easy,1.0,1.0,11.92717512550007,4.0,2158.0
+Level 2B: Solver + Critic,materials,hard,0.9090909090909091,0.0,48.0844676454999,4.0,3915.0
+Level 3: Adaptive Memory Multi-Agent,cheminformatics,easy,1.0,1.0,3.860659291999582,4.0,908.0
+Level 3: Adaptive Memory Multi-Agent,cheminformatics,hard,1.0,1.0,16.265042270501,6.0,3802.5
+Level 3: Adaptive Memory Multi-Agent,materials,easy,1.0,1.0,13.802482562000478,6.0,2716.5
+Level 3: Adaptive Memory Multi-Agent,materials,hard,0.9545454545454546,0.5,39.4659270000011,6.0,4863.0

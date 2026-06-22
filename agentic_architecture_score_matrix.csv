@@ -1,0 +1,5 @@
+architecture,cheminformatics_easy,cheminformatics_hard,materials_easy,materials_hard
+Level 1: Single-Agent Baseline,1.0,0.929,1.0,0.818
+Level 2A: Planner + Executor,1.0,0.929,1.0,0.909
+Level 2B: Solver + Critic,1.0,1.0,1.0,0.909
+Level 3: Adaptive Memory Multi-Agent,1.0,1.0,1.0,0.955

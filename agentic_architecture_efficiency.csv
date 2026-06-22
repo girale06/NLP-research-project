@@ -1,0 +1,5 @@
+architecture,mean_score,pass_rate,mean_runtime_seconds,mean_steps,mean_llm_calls,mean_estimated_total_tokens,mean_actual_total_tokens,mean_effective_total_tokens,actual_usage_available_rate,mean_estimated_tokens
+Level 3: Adaptive Memory Multi-Agent,0.9886363636363636,0.875,18.34852778112554,5.5,4.5,3072.5,3691.125,3691.125,1.0,3072.5
+Level 2B: Solver + Critic,0.9772727272727273,0.75,20.844945947999804,3.5,3.5,2397.0,2997.25,2997.25,1.0,2397.0
+Level 2A: Planner + Executor,0.9594155844155844,0.5,14.329689015625036,2.0,2.0,1824.0,1831.25,1831.25,1.0,1824.0
+Level 1: Single-Agent Baseline,0.9366883116883117,0.5,9.160811682000485,1.0,1.0,451.5,550.5,550.5,1.0,451.5
